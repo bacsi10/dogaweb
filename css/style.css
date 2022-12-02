@@ -1,10 +1,15 @@
 body {
 	margin:0;
-	background: url('../pics/hatter.jpg') fixed
+	background-color: rgb(30, 30, 30);
+	color: white;
 }
 *{
 	box-sizing: border-box
 }
 head {
 	
+}
+#asdd{
+background-color: rgb(81, 81, 81);
+border-color:rgb(86, 86, 86);
 }
